@@ -126,7 +126,7 @@ k19 = LINETCR.LINE()
 k19.login(token="EomIiGNXz8secJ4Rj6I0.1U6KsqNqyFsYGBJA97bUaa.f52gSSYjbHRZATzQPuQnQcpMpnE6WBTI9VDRjDypK8Y=")#4
 k19.loginResult()
 
-20 = LINETCR.LINE() 
+k20 = LINETCR.LINE() 
 #k20.login(qr=True)
 k20.login(token="Eo6IOxq5u8uqJX4x4pa0.CPryA+bOaES2dZ3fh+JLaa.+Xl1w05bgWcNl+LolZDOa1VLSgEpAsS8uBtD2hk72cE=")#5
 k20.loginResult()
